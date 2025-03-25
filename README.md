@@ -7,8 +7,6 @@
 
 ![Justo's GitHub stats](https://github-readme-stats.vercel.app/api?username=justofernandes&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justofernandes&layout=compact)
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
@@ -23,6 +21,8 @@
   <img align="center" alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
   <img align="center" alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
 </div><br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justofernandes&layout=compact)
 
 Gamedev, programador e apaixonado por tecnologia! 🎮👨‍💻</>
 
