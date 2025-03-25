@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.frnnds/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://otsuji.itch.io/)
 
-![Justo's GitHub stats](https://github-readme-stats.vercel.app/api?username=justofernandes&show_icons=true&theme=dracula)
+![Justo's GitHub stats](https://github-readme-stats.vercel.app/api?username=justofernandes&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justofernandes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justofernandes&layout=compact)
 
 ## Tecnologias que utilizo
 
