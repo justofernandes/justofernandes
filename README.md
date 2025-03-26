@@ -81,7 +81,7 @@
 
 ###
 
-<p align="left">Email: fernandes.justo@hotmail.com</p>
+<p align="left"> • Email: fernandes.justo@hotmail.com</p>
 
 ###
 
