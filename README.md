@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> • IT student - IMD<br> • Game programmer - IFRN<br> • Technology enthusiast</p>
+<p align="left"> • IT student - IMD<br> • Game Developer - IFRN<br> • Technology enthusiast</p>
 
 ###
 
