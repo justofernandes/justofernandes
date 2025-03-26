@@ -44,11 +44,7 @@
 
 ###
 
-<img align="right" height="175" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk5dzVxNndneXJ4d2t0OWcyeGN4ZmhycWkxdG5tZXBoamVrZGRydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justofernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justofernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=justofernandes&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -71,17 +67,13 @@
 
 ###
 
-<h3 align="left">Projects on itch.io</h3>
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://otsuji.itch.io/)
+<img src="https://raw.githubusercontent.com/justofernandes/justofernandes/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Projects on itch.io</h2>
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://otsuji.itch.io/)
 
 ###
 
@@ -90,6 +82,12 @@
 ###
 
 <p align="left">Email: fernandes.justo@hotmail.com</p>
+
+###
+
+<div align="center">
+  <img height="175" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk5dzVxNndneXJ4d2t0OWcyeGN4ZmhycWkxdG5tZXBoamVrZGRydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
+</div>
 
 ###
 
