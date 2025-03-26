@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- My name is Justo Fernandes and i'm a IT student , from RN, Brazil 🇧🇷</p>
+<p align="left"> • My name is Justo Fernandes and i'm a IT student , from RN, Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- IT student - IMD<br>- Game programmer - IFRN<br>- Technology enthusiast</p>
+<p align="left"> • IT student - IMD<br> • Game programmer - IFRN<br> • Technology enthusiast</p>
 
 ###
 
