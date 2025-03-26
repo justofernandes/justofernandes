@@ -44,7 +44,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk5dzVxNndneXJ4d2t0OWcyeGN4ZmhycWkxdG5tZXBoamVrZGRydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
+<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk5dzVxNndneXJ4d2t0OWcyeGN4ZmhycWkxdG5tZXBoamVrZGRydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
 
 ###
 
@@ -62,19 +62,26 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/justo-fernandes-09105331b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="110" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/j.frnnds/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://otsuji.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" width="110" height="40" alt="itch.io logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/justofernandes/justofernandes/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Projects on itch.io</h3>
+
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://otsuji.itch.io/)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/justofernandes/justofernandes/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
